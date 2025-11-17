@@ -2,7 +2,7 @@ Burger Time Arcade for the Tang Nano 20K FPGA Dev Board. Pinballwiz.org 2025
 Code by DarFPGA.
 
 Notes:
-Setup for keyboard controls in Upright mode (5 = Coin) (Start P1 = 1) (Start P2 = 2)(LCtrl - Jump)(Arrow Keys = Move L or R or U or D)
+Setup for keyboard controls in Upright mode (5 = Coin) (Start P1 = 1) (Start P2 = 2)(LCtrl - Pepper)(Arrow Keys = Move L or R or U or D)
 Consult the Schematics Folder for Information regarding peripheral connections.
 Consult the Schematics Folder for Information on Tang Nano 20K Internal Clock setup.
 
@@ -15,3 +15,4 @@ Build:
 * Open the TN20K-BurgerTime project file using GoWin.
 * Compile the project updating filepaths to source files as necessary.
 * Program Tang Nano 20K Board.
+
